@@ -1,6 +1,6 @@
 <openerp>
     <data>
-        <!--
+        
         <record model="openacademy.course" id="course0">
             <field name="name">Course 0</field>
             <field name="description">Course 0s description Can have multiple lines</field>
